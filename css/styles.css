@@ -1,5 +1,6 @@
-body {
-    
+body {font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 .link-navigation .link {
@@ -21,7 +22,7 @@ font-size: 18px;
 line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #2e2f42;
+color: #4d5ae5 ;
 }
 
 
@@ -37,6 +38,7 @@ color: #2e2f42;
     
 
 .main-page-contacts a {
+    font-style: normal;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -45,10 +47,11 @@ color: #2e2f42;
     color: #434455;
 }
 .page-title {
+    background-color: #2e2f42 ;
     font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 56px;
-line-height: 107%;
+line-height: 1.07%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -70,7 +73,7 @@ line-height: 150%;
 letter-spacing: 0.04em;
 color: #fff;
 background: rgba(77, 90, 229, 1);
-
+cursor: pointer;
 }
 .page-text h3 {
     font-family: "Roboto", sans-serif;
