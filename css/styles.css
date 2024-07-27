@@ -2,7 +2,9 @@ body {font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
-
+.main-page-navigation-link {
+    color: #2e2f42;
+}
 .link-navigation .link {
     color: rgba(46, 47, 66, 1);
 
@@ -126,6 +128,7 @@ color: #434455;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 .page-apps h3 {
     font-family: "Roboto", sans-serif;
@@ -142,6 +145,10 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
+}
+
+.page-underside {
+    background-color: #2e2f42;
 }
 .page-underside > a {
 
