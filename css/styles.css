@@ -37,7 +37,10 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-    
+.main-page-contacts{
+    font-style: normal;
+   color: #434455;
+}   
 
 .main-page-contacts a {
     font-style: normal;
@@ -77,6 +80,9 @@ color: #fff;
 background: rgba(77, 90, 229, 1);
 cursor: pointer;
 }
+.page-text {
+    background-color: #F4F4FD;
+}
 .page-text h3 {
     font-family: "Roboto", sans-serif;
 font-weight: 500;
@@ -84,14 +90,16 @@ font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
 color: #2e2f42;
+text-transform: capitalize;
 }
 .page-text p {
     font-family: "Roboto", sans-serif;
 font-weight: 400;
-font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
+background-color: #F4F4FD;
+font-size: 16px;
 }
 .employees >h2 {
     font-family: "Roboto", sans-serif;
