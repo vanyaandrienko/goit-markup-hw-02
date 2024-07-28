@@ -133,6 +133,7 @@ color: #2e2f42;
 }
 .employees-main {
     text-transform: capitalize;
+    background-color: #FFFFFF
 }
 .employees-paragraph {
     font-family: "Roboto", sans-serif;
