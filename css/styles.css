@@ -13,9 +13,14 @@ body {font-family: "Roboto", sans-serif;
 }
 .link-navigation .link:focus {
     color: rgba(64, 75, 191, 1);
-
 }
 
+.title-navigation .link:hover {
+    color: #404bbf;
+}
+.title-navigation .link:focus {
+    color: #404bbf;
+}
 .page-title {
     background-color: #2e2f42
 }
