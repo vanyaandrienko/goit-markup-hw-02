@@ -84,7 +84,7 @@ cursor: pointer;
 .page-text {
     background-color: #F4F4FD;
 }
-.page-text-strategy {
+.page-text-strategy h3 {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -93,7 +93,7 @@ cursor: pointer;
     color: #2e2f42;
     text-transform: capitalize;
 }
-.page-text-strategy-paragraph{   font-family: "Roboto", sans-serif;
+.page-text-strategy-paragraph p {   font-family: "Roboto", sans-serif;
     font-weight: 400;
     line-height: 150%;
     letter-spacing: 0.02em;
