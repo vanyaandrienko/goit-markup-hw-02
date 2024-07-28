@@ -119,6 +119,9 @@ color: #434455;
 background-color: #F4F4FD;
 font-size: 16px;
 }
+.employees {
+    background-color: #F4F4FD
+}
 .employees >h2 {
     font-family: "Roboto", sans-serif;
 font-weight: 700;
@@ -127,6 +130,25 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+}
+.employees-paragraph {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #434455;
+    }
+.employees-managers {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #2e2f42; 
+    text-transform: capitalize;
 }
 .employees h3 {
     font-family: "Roboto", sans-serif;
