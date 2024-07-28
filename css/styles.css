@@ -80,6 +80,9 @@ color: #fff;
 background: rgba(77, 90, 229, 1);
 cursor: pointer;
 }
+.main-page-text {
+    
+}
 .page-text {
     background-color: #F4F4FD;
 }
@@ -128,7 +131,7 @@ letter-spacing: 0.02em;
 text-align: left;
 color: #434455;
 }
-.page-apps >h2 {
+.page-apps > h2 {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
