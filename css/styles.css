@@ -16,6 +16,11 @@ body {font-family: "Roboto", sans-serif;
     color: rgba(64, 75, 191, 1);
 
 }
+.page-title {background-color: #2e2f42}
+.link .link:hover {
+    color: rgba(64, 75, 191, 1);
+}
+.link .link:focus {background-color: #404BBF;}
 .main-page-navigation > a {
     
     font-family: "Raleway", sans-serif;
