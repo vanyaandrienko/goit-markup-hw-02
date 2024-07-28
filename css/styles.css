@@ -80,12 +80,11 @@ color: #fff;
 background: rgba(77, 90, 229, 1);
 cursor: pointer;
 }
-.main-page-text {
-    
-}
+
 .page-text {
     background-color: #F4F4FD;
 }
+.page-text-strategy
 .page-text h3 {
     font-family: "Roboto", sans-serif;
 font-weight: 500;
