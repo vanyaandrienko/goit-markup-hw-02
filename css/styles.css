@@ -24,6 +24,9 @@ body {font-family: "Roboto", sans-serif;
 .page-title .link:focus {
     background-color: #404BBF;
 }
+.logo-title {
+   color: #4d5ae5;
+}
 .main-page-navigation > a {
     
     font-family: "Raleway", sans-serif;
