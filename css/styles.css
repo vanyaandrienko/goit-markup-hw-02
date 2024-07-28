@@ -3,20 +3,18 @@ body {font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
 }
 .main-page-navigation-link {
-    color: #2e2f42;g
+    color: #2e2f42;
 }
 .link-navigation .link {
     color: rgba(46, 47, 66, 1);
 }
-
-
-
-.title-navigation .link:hover {
+.link-navigation .link:hover{
     color: #404bbf;
 }
-.title-navigation .link:focus {
+.link-navigation .link:focus {
     color: #404bbf;
 }
+
 .page-title {
     background-color: #2e2f42
 }
@@ -54,11 +52,8 @@ body {font-family: "Roboto", sans-serif;
 .main-page-contacts{
     font-style: normal;
    color: #434455;
-   mai
 }   
-.main-page-contacts a {
-    color: #434455;
-}
+
 .social-contacts {
     color: #434455;
     font-style: normal;
