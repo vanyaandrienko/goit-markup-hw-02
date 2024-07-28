@@ -17,10 +17,13 @@ body {font-family: "Roboto", sans-serif;
 
 }
 .page-title {background-color: #2e2f42}
-.link .link:hover {
-    color: rgba(64, 75, 191, 1);
+.page-title .link:hover {
+    background-color: #404BBF; 
 }
-.link .link:focus {background-color: #404BBF;}
+ 
+.page-title .link:focus {
+    background-color: #404BBF;
+}
 .main-page-navigation > a {
     
     font-family: "Raleway", sans-serif;
