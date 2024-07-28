@@ -8,10 +8,10 @@ body {font-family: "Roboto", sans-serif;
 .link-navigation .link {
     color: rgba(46, 47, 66, 1);
 }
-.link-navigation .link:hover{
+.title-navigation .link:hover{
     color: rgba(64, 75, 191, 1);
 }
-.link-navigation .link:focus {
+.title-navigation .link:focus {
     color: rgba(64, 75, 191, 1);
 
 }
