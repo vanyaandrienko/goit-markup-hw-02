@@ -24,7 +24,7 @@ body {font-family: "Roboto", sans-serif;
 .page-title .link:focus{
     background-color: #404BBF;
 }
-.link-navigation a {
+.main-page-navigation > a {
    color: #4d5ae5;
 }
 .main-page-navigation   {
