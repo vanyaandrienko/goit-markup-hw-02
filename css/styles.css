@@ -35,9 +35,9 @@ body {font-family: "Roboto", sans-serif;
      letter-spacing: 0.03em; 
      text-transform: uppercase;
      color: #4d5ae5;
-   
-   
-  
+}
+.link {
+    color: #4d5ae5;
 }
 .social-navigation a {
     color: #2e2f42;
