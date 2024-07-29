@@ -5,9 +5,7 @@ body {font-family: "Roboto", sans-serif;
 .main-page-navigation-link{
     color: #2e2f42;
 }
-.link-navigation .link{
-    color: rgba(46, 47, 66, 1)
-}
+
 .main-page-navigation .link:hover{
     color: #404bbf;
 }
@@ -34,11 +32,9 @@ body {font-family: "Roboto", sans-serif;
      line-height: 1.17;
      letter-spacing: 0.03em; 
      text-transform: uppercase;
-     color: #4d5ae5;
-}
-.link {
-    color: #4d5ae5;
-}
+      background-color: #4d5ae5;}
+
+
 .social-navigation a {
     color: #2e2f42;
 }
