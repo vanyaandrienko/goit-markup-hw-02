@@ -27,7 +27,7 @@ body {font-family: "Roboto", sans-serif;
 .link {
    color: #4d5ae5;
 }
-.main-page-navigation > a {
+.main-page-navigation   {
     
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -84,12 +84,12 @@ text-align: center;
 color: #fff;
 
 }
-.button-link .link {
+.page-title .link {
     
     background: rgba(77, 90, 229, 1);
 
 }
-.button-link .link :hover {
+.page-title .link :hover {
     background: rgba(64, 75, 191, 1);
 
 }
