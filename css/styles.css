@@ -81,7 +81,7 @@ a {
 .social-contacts .link:hover{
     color: #404bbf;
     display: flex;
-    
+
 }
 .social-contacts .link:focus {
     color: #404bbf;
@@ -223,7 +223,11 @@ color: #434455;
 
 .page-underside {
     background-color: #2e2f42;
-}
+    padding-top: 100px;
+    padding-bottom: 100px;}
+    .page-underside-paragraph{
+        max-width: 264px;
+    }
 .main-page-navigation-link-under{color: #f4f4fd;}
 .page-underside > a {
 
